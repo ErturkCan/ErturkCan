@@ -1,42 +1,82 @@
-# Can Erturk
+<div align="center">
 
-Systems engineer building shared intelligence infrastructure for context-aware, privacy-first applications.
+# Can Ertürk
+**CS Engineer · Production Computer Vision Builder · China-Europe Trade Operator**
 
-I work at the intersection of platform engineering, real-time systems, and applied AI. I design the reusable layers that make complex products possible without reinventing core logic every time.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-canetrk-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/canetrk)
+[![Email](https://img.shields.io/badge/Email-canetrkk@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:canetrkk@gmail.com)
+![Location](https://img.shields.io/badge/Eindhoven-Netherlands-FF6B35?style=flat)
 
-## PARM - Shared Intelligence Layer
+</div>
 
-[PARM](https://github.com/ErturkCan/parm) is the platform I'm building: an agent orchestration and workflow automation layer that provides context handling, decision pipelines, timing intelligence, and privacy-aware data processing. Instead of each product implementing its own logic, PARM provides the infrastructure.
+---
 
-Three products are being built on PARM:
+I shipped a YOLO-based computer vision fault detector to a live Fiat assembly line at 19. 30+ FPS, 1,000+ training images, production-deployed at Stellantis R&D. Same year I founded [Parmestore International](https://linkedin.com/in/canetrk) — a KVK-registered China-Europe e-commerce operation, now expanding to bol.com and Amazon.de. I'm a CS&E student at TU/e Eindhoven and incoming AI-Driven Engineering intern at Vanderlande (Sep 2026).
 
-**[CanDelivers](https://github.com/ErturkCan/candelivers)** - Last-mile logistics for bulky items in dense urban environments. Routing optimization, constraint modeling, and operational simulation for local delivery coordination.
+Not a pure engineer. Not a pure business person. A technical operator who builds things that run in the real world.
 
-**[Clueat](https://github.com/ErturkCan/Clueat)** - Food ingredient parsing and allergen intelligence. Makes food choices clearer by analyzing labels, resolving ingredient synonyms, and surfacing allergen risks with explainable scoring.
+---
 
-**[KeepClos](https://github.com/ErturkCan/keepclos)** - Context-aware relationship intelligence. Models timing and context to support meaningful communication, with privacy-first personal data handling.
+## Stack
 
-Each product solves a focused problem while contributing infrastructure improvements back to the platform.
+**Languages**
 
-## Systems & Performance Work
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![ARM Assembly](https://img.shields.io/badge/ARM_Assembly-0091BD?style=flat&logo=arm&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
-Beyond the PARM ecosystem, I build low-level systems and performance tools:
+**ML / Computer Vision**
 
-- **[lockfree-orderbook](https://github.com/ErturkCan/lockfree-orderbook)** - Lock-free order matching engine in Rust targeting sub-microsecond match latency
-- **[stream-pipeline](https://github.com/ErturkCan/stream-pipeline)** - Backpressure-aware stream processing with lock-free ring buffers
-- **[feed-handler](https://github.com/ErturkCan/feed-handler)** - Zero-copy market data feed processor and order book builder
-- **[mempool-engine](https://github.com/ErturkCan/mempool-engine)** - Custom slab/arena memory allocator designed to outperform system malloc
-- **[monte-carlo-risk](https://github.com/ErturkCan/monte-carlo-risk)** - SIMD-accelerated Monte Carlo simulation engine
-- **[syscall-bench](https://github.com/ErturkCan/syscall-bench)** - Linux syscall latency profiler with CPU pinning and NUMA awareness
-- **[telemetry-core](https://github.com/ErturkCan/telemetry-core)** - Lock-free observability library designed for minimal CPU overhead
-- **[netprobe](https://github.com/ErturkCan/netprobe)** - Network latency diagnostics with jitter analysis and bufferbloat detection
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111F68?style=flat)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-## Engineering Focus
+**Tools**
 
-Real-time data pipelines and backpressure · Low-latency system design and benchmarking · Lock-free concurrency and memory management · Agent orchestration and workflow automation · Privacy-aware data infrastructure · Observability with minimal overhead
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-## Open to Collaboration
+---
 
-I'm interested in systems problems, especially latency-sensitive infrastructure, platform engineering, and real-time processing. If you're building something where architecture decisions matter, let's talk.
+## Three things worth knowing
 
-Netherlands · [LinkedIn](https://linkedin.com/in/canetrk)
+**① Stellantis R&D — Production Computer Vision**
+Trained a YOLOv8 model on 1,000+ real assembly line images. Surface defect detection at 30+ FPS. Deployed to a live Fiat production line in Bursa. Not a demo — vehicles drove past it every shift.
+
+**② MOSTRATEC — 3rd Place Worldwide**
+Top 3 at the world's 2nd largest international science fair (23 countries). Competed against university-level work as a high school student.
+
+**③ Parmestore International — Running Business**
+KVK-registered in the Netherlands. China-Europe e-commerce, direct supplier sourcing, bol.com + Amazon.de expansion underway. Operational since before university.
+
+---
+
+## Currently building
+
+| Project | What |
+|---|---|
+| [`assembly-line-cv`](https://github.com/ErturkCan/assembly-line-cv) | Sanitized version of the Stellantis defect detection pipeline |
+| [`parmestore-tools`](https://github.com/ErturkCan/parmestore-tools) | Price tracker + margin calculator + bol.com × Amazon.de gap finder |
+| [`melanoma-classifier`](https://github.com/ErturkCan/melanoma-classifier) | CNN skin lesion classifier from UCA graduate research |
+| [`tue-computer-systems`](https://github.com/ErturkCan/tue-computer-systems) | ARM assembly + systems programming (TU/e CS&E Year 1) |
+
+---
+
+## What's next
+
+**Sep 2026** → Vanderlande AI-Driven Engineering Intern (Veghel, NL)  
+**Nov 2026** → ASML application (Software / Data / Supply Chain track)  
+**Oct–Nov 2026** → Canton Fair Guangzhou — direct supplier sourcing for Parmestore
+
+---
+
+<div align="center">
+
+*The world rewards builders who understand both tech and trade.*
+
+</div>
