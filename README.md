@@ -7,6 +7,15 @@
 [![Email](https://img.shields.io/badge/Email-canetrkk@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:canetrkk@gmail.com)
 ![Location](https://img.shields.io/badge/Eindhoven-Netherlands-FF6B35?style=flat)
 
+<div align="center">
+
+---
+
+Obsessive about systems. Comfortable with chaos. Bad at doing nothing.
+I work a lot. I enjoy it. The two being connected is something I consider a personal win.
+Drawn to hard environments, sharp people. Slightly masochistic, apparently very effective.
+Still in the first chapter. Already taking notes.
+
 </div>
 
 ---
