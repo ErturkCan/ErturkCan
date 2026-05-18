@@ -11,7 +11,7 @@
 
 ---
 
-I shipped a computer vision fault detector to a live Fiat assembly line at 19. 30+ FPS, 1,000+ training images, deployed at Stellantis R&D. Same year I founded [Parmestore](https://linkedin.com/in/canetrk) an international e-commerce operation, now expanding in Europe. I'm a CSE student at TU/e Eindhoven and incoming AI Engineering intern at Vanderlande.
+I shipped a computer vision fault detector to a live Fiat assembly line working 30+ FPS, 1,000+ training images, deployed at Stellantis R&D. Same year I founded [Parmestore](https://linkedin.com/in/canetrk) an international e-commerce operation, now expanding in Europe. I'm a CSE student at TU/e Eindhoven and incoming AI Engineering intern at Vanderlande.
 
 ---
 
