@@ -1,7 +1,7 @@
 <div align="center">
 
 # Can Erturk
-**CS Engineer · Intern at Vanderlande · Ex-Intern at Fiat Stellantis · E-commerce Business Owner**
+**CS Engineer · Intern at ASML · Ex-Intern at Fiat Stellantis · E-commerce Business Owner**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-canetrk-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/canetrk)
 [![Email](https://img.shields.io/badge/Email-canetrkk@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:canetrkk@gmail.com)
@@ -20,7 +20,7 @@ Still in the first chapter. Already taking notes.
 
 ---
 
-I shipped a computer vision fault detector to a live Fiat assembly line working 30+ FPS, 1,000+ training images, deployed at Stellantis R&D. Same year I founded [Parmestore](https://linkedin.com/in/canetrk) an international e-commerce operation, now expanding in Europe. I'm a CSE student at TU/e Eindhoven and incoming AI Engineering intern at Vanderlande.
+I shipped a computer vision fault detector to a live Fiat assembly line working 30+ FPS, 1,000+ training images, deployed at Stellantis R&D. Same year I founded [Parmestore](https://linkedin.com/in/canetrk) an international e-commerce operation, now expanding in Europe. I'm a CSE student at TU/e Eindhoven and Incoming Software Engineering intern at ASML.
 
 ---
 
