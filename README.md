@@ -1,66 +1,77 @@
 <div align="center">
 
-# Can Erturk
-**CS Engineer · Intern at ASML · Ex-Intern at Fiat Stellantis · E-commerce Business Owner**
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-canetrk-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/canetrk)
-[![Email](https://img.shields.io/badge/Email-canetrkk@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:canetrkk@gmail.com)
-![Location](https://img.shields.io/badge/Eindhoven-Netherlands-FF6B35?style=flat)
+# ●
 
-<div align="center">
+# can erturk
 
----
+**SWE Intern @ ASML · CSE @ TU/e · Ex-Stellantis**
 
-Obsessive about systems. Comfortable with chaos. Bad at doing nothing.
-I work a lot. I enjoy it. The two being connected is something I consider a personal win.
-Drawn to hard environments, sharp people. Slightly masochistic, apparently very effective.
-Still in the first chapter. Already taking notes.
+eindhoven, nl · building [stip](https://getstip.com)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-canetrk-111111?style=flat-square)](https://linkedin.com/in/canetrk)
+[![Site](https://img.shields.io/badge/erturks.com-111111?style=flat-square)](https://erturks.com)
+[![Email](https://img.shields.io/badge/mail-canetrkk-111111?style=flat-square)](mailto:canetrkk@gmail.com)
+
+<br/>
 
 </div>
 
 ---
 
-I shipped a computer vision fault detector to a live Fiat assembly line working 30+ FPS, 1,000+ training images, deployed at Stellantis R&D. Same year I founded [Parmestore](https://linkedin.com/in/canetrk) an international e-commerce operation, now expanding in Europe. I'm a CSE student at TU/e Eindhoven and Incoming Software Engineering intern at ASML.
+Obsessive about systems. Comfortable with chaos. Bad at doing nothing.
+
+I work a lot. I enjoy it. The two being connected is something I consider a personal win.
+
+Drawn to hard environments, sharp people. Still in the first chapter. Already taking notes.
 
 ---
 
-## Stack
+## 01 · Building
 
-**Languages**
+### [stip](https://getstip.com) — re-ceipt, re-designed
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![ARM Assembly](https://img.shields.io/badge/ARM_Assembly-0091BD?style=flat&logo=arm&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+Every café prints thousands of receipts nobody keeps. Thermal paper. Fades in a pocket. In the bin by evening.
 
-**ML / Computer Vision**
+Stip replaces the printer with a dot on the table.
 
-![YOLOv8](https://img.shields.io/badge/YOLOv8-111F68?style=flat)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+· Guest taps it. The receipt opens in the browser. No app, no account.<br/>
+· Split via Tikkie, save to Apple Wallet, send straight to accounting.<br/>
+· Works with the till they already have. Nothing new on the counter.<br/>
+· EU-hosted, GDPR-first. €25/month, dots included.
 
-**Tools**
+## 02 · Track record
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+`13` · 3D-printing operation during COVID. 50,000+ mask holders shipped.<br/>
+`15` · NFT collection. 10,000+ pieces, at the peak of the 2021 boom.<br/>
+`16` · Parmestore International. 2,500+ products sold across 4 continents.<br/>
+`17` · Computer vision into a live production line at Stellantis. 30+ FPS, still running.
 
----
+Also · 3rd place worldwide at MOSTRATEC, 23 countries · CNN melanoma research with Prof. M. Emre Celebi, UCA
 
-## Currently building
+## 03 · Stack
 
-| Project | What |
-|---|---|
-| [`assembly-line-cv`](https://github.com/ErturkCan/assembly-line-cv) | Stellantis defect detection pipeline |
-| [`parmestore-tools`](https://github.com/ErturkCan/parmestore-tools) | Price tracker + margin calculator + bol.com × Amazon.de gap finder |
-| [`melanoma-classifier`](https://github.com/ErturkCan/melanoma-classifier) | CNN skin lesion classifier from UCA graduate research |
+`Python` · `C` · `ARM Assembly` · `SQL` · `TypeScript`
+
+`YOLOv8` · `OpenCV` · `PyTorch` · `pandas` · `NumPy`
+
+`Git` · `Linux` · `Docker` · `Vercel` · `Supabase`
 
 ---
 
 <div align="center">
 
-*The world rewards builders who understand both tech and trade.*
+<br/>
+
+**Spot the gap. Build it. Put it in people's hands.**
+
+<br/>
+
+`Engineered in Brainport Eindhoven 🇳🇱`
+
+<br/>
 
 </div>
