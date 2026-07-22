@@ -32,16 +32,11 @@ Drawn to hard environments, sharp people. Still in the first chapter. Already ta
 
 ## 01 · Building
 
-### [stip](https://getstip.com) — re-ceipt, re-designed
+### [stip](https://getstip.com) · re-ceipt, re-designed
 
 Every café prints thousands of receipts nobody keeps. Thermal paper. Fades in a pocket. In the bin by evening.
 
 Stip replaces the printer with a dot on the table.
-
-· Guest taps it. The receipt opens in the browser. No app, no account.<br/>
-· Split via Tikkie, save to Apple Wallet, send straight to accounting.<br/>
-· Works with the till they already have. Nothing new on the counter.<br/>
-· EU-hosted, GDPR-first. €25/month, dots included.
 
 ## 02 · Track record
 
