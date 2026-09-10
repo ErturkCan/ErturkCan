@@ -1,0 +1,48 @@
+{
+  "model": "yolov8n.pt",
+  "source": "Ultralytics assets/bus.jpg",
+  "source_url": "https://github.com/ultralytics/ultralytics/blob/main/ultralytics/assets/bus.jpg",
+  "scope": "Pretrained COCO inference demo. Not a defect model or a production benchmark.",
+  "detections": [
+    {
+      "class": "bus",
+      "confidence": 0.8734486699104309,
+      "xyxy": [
+        22.87126922607422,
+        231.27731323242188,
+        805.0025634765625,
+        756.8404541015625
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.8656911849975586,
+      "xyxy": [
+        48.550392150878906,
+        398.55230712890625,
+        245.34559631347656,
+        902.7026977539062
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.8528355956077576,
+      "xyxy": [
+        669.472900390625,
+        392.1860656738281,
+        809.7201538085938,
+        877.0354614257812
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.8252244591712952,
+      "xyxy": [
+        221.5172882080078,
+        405.79864501953125,
+        344.9706115722656,
+        857.53662109375
+      ]
+    }
+  ]
+}
