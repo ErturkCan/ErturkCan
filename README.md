@@ -1,6 +1,6 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce13-name-dark.svg" /><img src="assets/ce13-name-light.svg" width="280" alt="Can Ertürk" /></picture>
 
-19. Computer Science & Engineering at TU/e.
+19 · Computer Science & Engineering at TU/e.
 
 ### ASML
 
