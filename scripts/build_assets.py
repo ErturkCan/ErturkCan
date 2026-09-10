@@ -1,7 +1,7 @@
 """Build the profile artwork from shared tokens and reproducible demo outputs.
 
 python scripts/build_assets.py
-Then rasterise vision-{light,dark}.svg to PNG with any SVG renderer.
+Then rasterise ce-vision-{light,dark}.svg to PNG with any SVG renderer.
 Other assets stay SVG so type and diagrams remain sharp at every size.
 """
 import base64
@@ -26,7 +26,7 @@ def rect(x, y, w, h, fill, radius=0, stroke="none"):
 
 
 def save(name, w, h, content, alt):
-    (ASSETS / f"{name}-{THEME}.svg").write_text(
+    (ASSETS / f"ce-{name}-{THEME}.svg").write_text(
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}" role="img" aria-label="{escape(alt, quote=True)}">'
         f'<g font-family="{FONT}">' + content + '</g></svg>\n')
 
