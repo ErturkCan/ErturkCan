@@ -2,7 +2,7 @@
 
 Shared visual language with [Stip](https://getstip.com) and [erturks.com](https://erturks.com): olive, warm white, soft corners, thin lines and restrained typography. `tokens.json` records the palette, spacing and component values. GitHub controls the outer layout and text font.
 
-Rebuild the SVG assets with `python scripts/build_assets.py`. Convert the two `assets/ce-vision-*.svg` files to PNG for GitHub using Sharp or another SVG renderer; these embed the demo image. All other cards use SVG directly.
+Rebuild the SVG assets with `python scripts/build_assets.py`. Convert the two `assets/ce11-vision-*.svg` files to PNG for GitHub using Sharp or another SVG renderer; these embed the demo image. All other cards use SVG directly.
 
 Geometry data comes from [the polygon project's demo.py](https://github.com/ErturkCan/Regular_Polygons_Intersection/blob/main/demo.py), using the same functions as its numerical checks. The dots are computed intersections.
 

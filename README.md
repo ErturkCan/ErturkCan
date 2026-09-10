@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce-name-dark.svg" /><img src="assets/ce-name-light.svg" width="100%" alt="Can Erturk" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce11-name-dark.svg" /><img src="assets/ce11-name-light.svg" width="100%" alt="Can Erturk" /></picture>
 
 **SWE Intern @ ASML · Ex-Stellantis · CSE @ TU/e**
 
@@ -6,22 +6,22 @@
 
 ## Work
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce-asml-dark.svg" /><img src="assets/ce-asml-light.svg" width="360" alt="ASML · Software Engineering Intern, September 2026–present. Diagnostics software for semiconductor equipment." /></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce-stellantis-dark.svg" /><img src="assets/ce-stellantis-light.svg" width="360" alt="TOFAŞ / Stellantis · Digital Transformation internship. Real-time fault detection with Python, YOLO and OpenCV." /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce11-asml-dark.svg" /><img src="assets/ce11-asml-light.svg" width="360" alt="ASML · Software Engineering Intern, September 2026–present. Diagnostics software for semiconductor equipment." /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce11-stellantis-dark.svg" /><img src="assets/ce11-stellantis-light.svg" width="360" alt="TOFAŞ / Stellantis · Digital Transformation internship. Real-time fault detection with Python, YOLO and OpenCV." /></picture>
 
 Software engineering at **ASML**, since September 2026. Previously, computer vision at **TOFAŞ / Stellantis**.
 
 ### Along the way
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce-age-13-dark.svg" /><img src="assets/ce-age-13-light.svg" width="150" alt="At 13: Built my first 3D printer" /></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce-age-16-dark.svg" /><img src="assets/ce-age-16-light.svg" width="150" alt="At 16: Founded Parmestore" /></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce-age-17-dark.svg" /><img src="assets/ce-age-17-light.svg" width="150" alt="At 17: Computer vision at TOFAŞ" /></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce-age-19-dark.svg" /><img src="assets/ce-age-19-light.svg" width="150" alt="At 19: Software engineering intern at ASML" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce11-age-13-dark.svg" /><img src="assets/ce11-age-13-light.svg" width="150" alt="At 13: Built my first 3D printer" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce11-age-16-dark.svg" /><img src="assets/ce11-age-16-light.svg" width="150" alt="At 16: Founded Parmestore" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce11-age-17-dark.svg" /><img src="assets/ce11-age-17-light.svg" width="150" alt="At 17: Computer vision at TOFAŞ" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce11-age-19-dark.svg" /><img src="assets/ce11-age-19-light.svg" width="150" alt="At 19: Software engineering intern at ASML" /></picture>
 
 ## Projects
 
-<a href="https://github.com/ErturkCan/Regular_Polygons_Intersection"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce-geometry-dark.svg" /><img src="assets/ce-geometry-light.svg" width="360" alt="Polygon intersections: 3 pentagons, 30 computed crossings. Paper and Python verification." /></picture></a>
-<a href="https://github.com/ErturkCan/assembly-line-cv"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce-vision-dark.png" /><img src="assets/ce-vision-light.png" width="360" alt="Computer vision: actual pretrained COCO sample output, not a defect model. Training and video inference code." /></picture></a>
+<a href="https://github.com/ErturkCan/Regular_Polygons_Intersection"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce11-geometry-dark.svg" /><img src="assets/ce11-geometry-light.svg" width="360" alt="Polygon intersections: 3 pentagons, 30 computed crossings. Paper and Python verification." /></picture></a>
+<a href="https://github.com/ErturkCan/assembly-line-cv"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce11-vision-dark.png" /><img src="assets/ce11-vision-light.png" width="360" alt="Computer vision: actual pretrained COCO sample output, not a defect model. Training and video inference code." /></picture></a>
 
 **Polygon intersections** · A mathematical question explored through a paper and numerical checks. The preview comes from the repository’s own geometry functions. [Paper](https://github.com/ErturkCan/Regular_Polygons_Intersection/blob/main/paper.pdf) · [Reproduce the figure](https://github.com/ErturkCan/Regular_Polygons_Intersection/blob/main/demo.py)
 
@@ -29,10 +29,10 @@ Software engineering at **ASML**, since September 2026. Previously, computer vis
 
 ### More code
 
-<a href="https://github.com/ErturkCan/tue-computer-systems"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce-systems-dark.svg" /><img src="assets/ce-systems-light.svg" width="360" alt="C and ARM exercises with Linux, Make and QEMU" /></picture></a>
-<a href="https://github.com/ErturkCan/parmestore-tools"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce-commerce-dark.svg" /><img src="assets/ce-commerce-light.svg" width="360" alt="Python pricing, sales and shipping tools" /></picture></a>
-<a href="https://github.com/ErturkCan/melanoma-classifier"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce-ml-dark.svg" /><img src="assets/ce-ml-light.svg" width="360" alt="Image classification training and evaluation experiments" /></picture></a>
-<a href="https://github.com/ErturkCan/supply-chain-analysis"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce-simulation-dark.svg" /><img src="assets/ce-simulation-light.svg" width="360" alt="Supply chain simulation with synthetic data" /></picture></a>
+<a href="https://github.com/ErturkCan/tue-computer-systems"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce11-systems-dark.svg" /><img src="assets/ce11-systems-light.svg" width="360" alt="C and ARM exercises with Linux, Make and QEMU" /></picture></a>
+<a href="https://github.com/ErturkCan/parmestore-tools"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce11-commerce-dark.svg" /><img src="assets/ce11-commerce-light.svg" width="360" alt="Python pricing, sales and shipping tools" /></picture></a>
+<a href="https://github.com/ErturkCan/melanoma-classifier"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce11-ml-dark.svg" /><img src="assets/ce11-ml-light.svg" width="360" alt="Image classification training and evaluation experiments" /></picture></a>
+<a href="https://github.com/ErturkCan/supply-chain-analysis"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce11-simulation-dark.svg" /><img src="assets/ce11-simulation-light.svg" width="360" alt="Supply chain simulation with synthetic data" /></picture></a>
 
 ## Stack
 

@@ -1,7 +1,7 @@
 """Build the profile artwork from shared tokens and reproducible demo outputs.
 
 python scripts/build_assets.py
-Then rasterise ce-vision-{light,dark}.svg to PNG with any SVG renderer.
+Then rasterise ce11-vision-{light,dark}.svg to PNG with any SVG renderer.
 Other assets stay SVG so type and diagrams remain sharp at every size.
 """
 import base64
@@ -26,7 +26,7 @@ def rect(x, y, w, h, fill, radius=0, stroke="none"):
 
 
 def save(name, w, h, content, alt):
-    (ASSETS / f"ce-{name}-{THEME}.svg").write_text(
+    (ASSETS / f"ce11-{name}-{THEME}.svg").write_text(
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}" role="img" aria-label="{escape(alt, quote=True)}">'
         f'<g font-family="{FONT}">' + content + '</g></svg>\n')
 
@@ -39,7 +39,7 @@ for THEME in ("light", "dark"):
     C = dict(TOKENS['color'])
     if THEME == 'dark':
         C.update(C['dark'])
-    # Compact name, with Stip's soft ambient sage and the portfolio's blue tint.
+    # Compact name, with Stip's soft ambient sage and warm neutral tones.
     content = '<defs><radialGradient id="wash"><stop stop-color="' + C['sage'] + '"/><stop offset="1" stop-color="'+C['surface']+'"/></radialGradient></defs>'
     content += rect(0, 0, 960, 148, C['surface'], 16)
     content += '<ellipse cx="125" cy="48" rx="300" ry="115" fill="url(#wash)"/>'
@@ -49,8 +49,8 @@ for THEME in ("light", "dark"):
     save('name', 960, 148, content, 'Can Erturk')
 
     for slug, title, role, lines, color in (
-        ('asml', 'ASML', 'Software Engineering Intern', ['Diagnostics software for', 'semiconductor equipment.'], C['blue']),
-        ('stellantis', 'TOFAŞ / Stellantis', 'Digital Transformation Intern', ['Real-time fault detection.', 'Python · YOLO · OpenCV'], C['clay']),
+        ('asml', 'ASML', 'Software Engineering Intern', ['Diagnostics software for', 'semiconductor equipment.'], TOKENS['color']['olive']),
+        ('stellantis', 'TOFAŞ / Stellantis', 'Digital Transformation Intern', ['Real-time fault detection.', 'Python · YOLO · OpenCV'], TOKENS['color']['olive']),
     ):
         content = shell(400, 188)
         content += f'<defs><clipPath id="card"><rect width="400" height="188" rx="16"/></clipPath></defs>'
@@ -74,7 +74,7 @@ for THEME in ("light", "dark"):
     # Coordinates and crossing points are exported by the project's demo.py.
     content = shell(400, 430) + rect(12, 12, 376, 225, C['paper'], 12)
     def xy(p): return 200 + 87*p[0], 124 - 87*p[1]
-    for polygon, color in zip(GEOMETRY['polygons'], [C['olive'], '#6E91AE', '#B78977']):
+    for polygon, color in zip(GEOMETRY['polygons'], [C['olive'], C['muted'], C['ink']]):
         coords=' '.join(f'{x:.3f},{y:.3f}' for x,y in map(xy, polygon))
         content += f'<polygon points="{coords}" fill="none" stroke="{color}" stroke-width="1.6"/>'
     for point in GEOMETRY['crossings']:
