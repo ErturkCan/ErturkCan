@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce11-name-dark.svg" /><img src="assets/ce11-name-light.svg" width="100%" alt="Can Erturk" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce12-name-dark.svg" /><img src="assets/ce12-name-light.svg" width="100%" alt="Can Erturk" /></picture>
 
 **SWE Intern @ ASML · Ex-Stellantis · CSE @ TU/e**
 
@@ -6,33 +6,31 @@
 
 ## Work
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce11-asml-dark.svg" /><img src="assets/ce11-asml-light.svg" width="360" alt="ASML · Software Engineering Intern, September 2026–present. Diagnostics software for semiconductor equipment." /></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce11-stellantis-dark.svg" /><img src="assets/ce11-stellantis-light.svg" width="360" alt="TOFAŞ / Stellantis · Digital Transformation internship. Real-time fault detection with Python, YOLO and OpenCV." /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce12-asml-dark.svg" /><img src="assets/ce12-asml-light.svg" width="360" alt="ASML · Software Engineering Intern, September 2026–present. Diagnostics software for semiconductor equipment." /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce12-stellantis-dark.svg" /><img src="assets/ce12-stellantis-light.svg" width="360" alt="TOFAŞ / Stellantis · Digital Transformation internship. Real-time fault detection with Python, YOLO and OpenCV." /></picture>
 
-Software engineering at **ASML**, since September 2026. Previously, computer vision at **TOFAŞ / Stellantis**.
+Software engineering at **ASML**, since September 2026. Previously, built a real-time fault-detection system at **TOFAŞ / Stellantis**, running at **30+ FPS** in production.
 
 ### Along the way
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce11-age-13-dark.svg" /><img src="assets/ce11-age-13-light.svg" width="150" alt="At 13: Built my first 3D printer" /></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce11-age-16-dark.svg" /><img src="assets/ce11-age-16-light.svg" width="150" alt="At 16: Founded Parmestore" /></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce11-age-17-dark.svg" /><img src="assets/ce11-age-17-light.svg" width="150" alt="At 17: Computer vision at TOFAŞ" /></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce11-age-19-dark.svg" /><img src="assets/ce11-age-19-light.svg" width="150" alt="At 19: Software engineering intern at ASML" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce12-age-13-dark.svg" /><img src="assets/ce12-age-13-light.svg" width="150" alt="At 13: Built a 3D printer. Later produced and sold 50,000+ mask holders during COVID." /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce12-age-16-dark.svg" /><img src="assets/ce12-age-16-light.svg" width="150" alt="At 16: Founded Parmestore. Funded my education through the business." /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce12-age-17-dark.svg" /><img src="assets/ce12-age-17-light.svg" width="150" alt="At 17: Built assembly-line fault detection at TOFAŞ, running at 30+ FPS." /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce12-age-19-dark.svg" /><img src="assets/ce12-age-19-light.svg" width="150" alt="At 19: Software engineering intern at ASML" /></picture>
 
 ## Projects
 
-<a href="https://github.com/ErturkCan/Regular_Polygons_Intersection"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce11-geometry-dark.svg" /><img src="assets/ce11-geometry-light.svg" width="360" alt="Polygon intersections: 3 pentagons, 30 computed crossings. Paper and Python verification." /></picture></a>
-<a href="https://github.com/ErturkCan/assembly-line-cv"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce11-vision-dark.png" /><img src="assets/ce11-vision-light.png" width="360" alt="Computer vision: actual pretrained COCO sample output, not a defect model. Training and video inference code." /></picture></a>
+<a href="https://github.com/ErturkCan/Regular_Polygons_Intersection"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce12-geometry-dark.svg" /><img src="assets/ce12-geometry-light.svg" width="360" alt="Polygon intersections: paper and Python numerical checks, covering 28 verification cases, crossing points and bounded regions." /></picture></a>
+<a href="https://github.com/ErturkCan/assembly-line-cv"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce12-vision-dark.svg" /><img src="assets/ce12-vision-light.svg" width="360" alt="Computer vision: YOLO training and evaluation, OpenCV video inference, annotated recordings and detection logs." /></picture></a>
 
-**Polygon intersections** · A mathematical question explored through a paper and numerical checks. The preview comes from the repository’s own geometry functions. [Paper](https://github.com/ErturkCan/Regular_Polygons_Intersection/blob/main/paper.pdf) · [Reproduce the figure](https://github.com/ErturkCan/Regular_Polygons_Intersection/blob/main/demo.py)
-
-**Computer vision** · Training, video inference and annotations with YOLO/OpenCV. The preview is a public COCO sample; custom defect weights and production data are not in this repository. [Reproduce the demo](https://github.com/ErturkCan/assembly-line-cv/blob/main/demo.py)
+[Read the polygon paper](https://github.com/ErturkCan/Regular_Polygons_Intersection/blob/main/paper.pdf) · [Run the geometry checks](https://github.com/ErturkCan/Regular_Polygons_Intersection/blob/main/verify.py) · [Computer vision code](https://github.com/ErturkCan/assembly-line-cv)
 
 ### More code
 
-<a href="https://github.com/ErturkCan/tue-computer-systems"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce11-systems-dark.svg" /><img src="assets/ce11-systems-light.svg" width="360" alt="C and ARM exercises with Linux, Make and QEMU" /></picture></a>
-<a href="https://github.com/ErturkCan/parmestore-tools"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce11-commerce-dark.svg" /><img src="assets/ce11-commerce-light.svg" width="360" alt="Python pricing, sales and shipping tools" /></picture></a>
-<a href="https://github.com/ErturkCan/melanoma-classifier"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce11-ml-dark.svg" /><img src="assets/ce11-ml-light.svg" width="360" alt="Image classification training and evaluation experiments" /></picture></a>
-<a href="https://github.com/ErturkCan/supply-chain-analysis"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce11-simulation-dark.svg" /><img src="assets/ce11-simulation-light.svg" width="360" alt="Supply chain simulation with synthetic data" /></picture></a>
+<a href="https://github.com/ErturkCan/tue-computer-systems"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce12-systems-dark.svg" /><img src="assets/ce12-systems-light.svg" width="360" alt="C and ARM exercises with Linux, Make and QEMU" /></picture></a>
+<a href="https://github.com/ErturkCan/parmestore-tools"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce12-commerce-dark.svg" /><img src="assets/ce12-commerce-light.svg" width="360" alt="Python pricing, sales and shipping tools" /></picture></a>
+<a href="https://github.com/ErturkCan/melanoma-classifier"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce12-ml-dark.svg" /><img src="assets/ce12-ml-light.svg" width="360" alt="Image classification training and evaluation experiments" /></picture></a>
+<a href="https://github.com/ErturkCan/supply-chain-analysis"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce12-simulation-dark.svg" /><img src="assets/ce12-simulation-light.svg" width="360" alt="Supply chain simulation with synthetic data" /></picture></a>
 
 ## Stack
 
@@ -56,7 +54,7 @@ I started Parmestore at 16 and paid for my education with the business I built. 
 
 ### Before that
 
-During COVID, produced **50,000+ mask holders**. At 15, launched a **10,000+ piece NFT collection**.
+Built my first 3D printer at 13, then produced and sold **50,000+ mask holders** during COVID. At 15, launched a **10,000+ piece NFT collection**.
 
 Also · graduate-level data science coursework with **Prof. M. Emre Celebi, UCA** · competitive **orienteering**.
 
