@@ -22,7 +22,7 @@ def rect(x, y, w, h, fill, radius=0, stroke="none"):
 
 
 def save(name, w, h, content, alt):
-    (ASSETS / f"ce13-{name}-{THEME}.svg").write_text(
+    (ASSETS / f"{'ce14' if name == 'name' else 'ce13'}-{name}-{THEME}.svg").write_text(
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}" role="img" aria-label="{escape(alt, quote=True)}">'
         f'<g font-family="{FONT}">' + content + '</g></svg>\n')
 
@@ -37,8 +37,8 @@ for THEME in ("light", "dark"):
         C.update(C['dark'])
     # Transparent wordmark: dot and name only.
     content = f'<circle cx="16" cy="46" r="7" fill="{C["olive"]}"/>'
-    content += txt(40, 61, 'Can Ertürk', 46, weight=500)
-    save('name', 420, 90, content, 'Can Ertürk')
+    content += txt(40, 61, 'Can Erturk', 46, weight=500)
+    save('name', 420, 90, content, 'Can Erturk')
 
     for slug, title, role, lines, result in (
         ('asml', 'ASML', 'Software Engineering Intern', ['Diagnostics software for semiconductor', 'equipment. Working with legacy systems', 'and modern software interfaces.'], 'Started at 19 · September 2026'),
