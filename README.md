@@ -1,54 +1,46 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce13-name-dark.svg" /><img src="assets/ce13-name-light.svg" width="420" alt="Can Ertürk" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce13-name-dark.svg" /><img src="assets/ce13-name-light.svg" width="360" alt="Can Ertürk" /></picture>
 
-**SWE Intern @ ASML · Ex-Fiat Stellantis · CSE @ TU/e**
+SWE Intern @ ASML · Ex-Fiat Stellantis · CSE @ TU/e
 
-[Work](#work) &nbsp; / &nbsp; [Projects](#projects) &nbsp; / &nbsp; [Building](#building) &nbsp; / &nbsp; [erturks.com](https://erturks.com) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/canetrk/) &nbsp; / &nbsp; [Email](mailto:canetrkk@gmail.com)
+[erturks.com](https://erturks.com) · [LinkedIn](https://www.linkedin.com/in/canetrk/) · [Email](mailto:canetrkk@gmail.com)
 
-## Work
+## Experience
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce13-asml-dark.svg" /><img src="assets/ce13-asml-light.svg" width="360" alt="ASML · Software Engineering Intern, Started at 19, September 2026–present. Diagnostics software for semiconductor equipment." /></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce13-stellantis-dark.svg" /><img src="assets/ce13-stellantis-light.svg" width="360" alt="Fiat Stellantis · Digital Transformation internship at 17. Real-time fault detection with Python, YOLO and OpenCV, running at 30+ FPS in production." /></picture>
+**ASML** · Software Engineering Intern, since September 2026 · age 19<br>
+Diagnostics software for semiconductor equipment, working with legacy systems and modern interfaces.
 
-### Earlier
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce13-age-13-dark.svg" /><img src="assets/ce13-age-13-light.svg" width="360" alt="At 13: Built a 3D printer. Later produced and sold 50,000+ mask holders during COVID." /></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce13-age-16-dark.svg" /><img src="assets/ce13-age-16-light.svg" width="360" alt="At 16: Founded Parmestore. Funded my education through the business." /></picture>
+**Fiat Stellantis** · Digital Transformation Intern · age 17<br>
+Built assembly-line fault detection with Python, YOLO and OpenCV, running at **30+ FPS** in production.
 
 ## Projects
 
-<a href="https://github.com/ErturkCan/Regular_Polygons_Intersection"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce13-geometry-dark.svg" /><img src="assets/ce13-geometry-light.svg" width="360" alt="Polygon intersections: paper and Python numerical checks, covering 28 verification cases, crossing points and bounded regions." /></picture></a>
-<a href="https://github.com/ErturkCan/assembly-line-cv"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce13-vision-dark.svg" /><img src="assets/ce13-vision-light.svg" width="360" alt="Computer vision: YOLO training and evaluation, OpenCV video inference, annotated recordings and detection logs." /></picture></a>
+**[Polygon intersections](https://github.com/ErturkCan/Regular_Polygons_Intersection)**<br>
+Intersection bounds for regular polygons, with a [paper](https://github.com/ErturkCan/Regular_Polygons_Intersection/blob/main/paper.pdf) and Python checks covering 28 verification cases. Crossing points, bounded regions and selected arrangements.
 
-[Read the polygon paper](https://github.com/ErturkCan/Regular_Polygons_Intersection/blob/main/paper.pdf) · [Run the geometry checks](https://github.com/ErturkCan/Regular_Polygons_Intersection/blob/main/verify.py) · [Computer vision code](https://github.com/ErturkCan/assembly-line-cv)
+**[Computer vision](https://github.com/ErturkCan/assembly-line-cv)**<br>
+YOLO training and evaluation, OpenCV video/webcam inference, annotated recordings and detection logs.
 
-### More code
+**[Computer systems](https://github.com/ErturkCan/tue-computer-systems)**<br>
+Five C/ARM labs: calling conventions, pointers, linked lists, matrix multiplication, file I/O and processes. Checks run with Make and QEMU.
 
-<a href="https://github.com/ErturkCan/tue-computer-systems"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce13-systems-dark.svg" /><img src="assets/ce13-systems-light.svg" width="360" alt="C and ARM exercises with Linux, Make and QEMU" /></picture></a>
-<a href="https://github.com/ErturkCan/parmestore-tools"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce13-commerce-dark.svg" /><img src="assets/ce13-commerce-light.svg" width="360" alt="Python pricing, sales and shipping tools" /></picture></a>
-<a href="https://github.com/ErturkCan/melanoma-classifier"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce13-ml-dark.svg" /><img src="assets/ce13-ml-light.svg" width="360" alt="Image classification training and evaluation experiments" /></picture></a>
-<a href="https://github.com/ErturkCan/supply-chain-analysis"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ce13-simulation-dark.svg" /><img src="assets/ce13-simulation-light.svg" width="360" alt="Supply chain simulation with synthetic data" /></picture></a>
+**[Parmestore tools](https://github.com/ErturkCan/parmestore-tools)**<br>
+Margin calculations including VAT, commission and shipping; SQLite price history, threshold alerts and marketplace comparisons.
 
-## Stack
+**[Melanoma classifier](https://github.com/ErturkCan/melanoma-classifier)**<br>
+Experimental PyTorch classifier with stratified cross-validation, weighted sampling, AUC-based model selection and eight-view augmentation.
 
-**Code** &nbsp; `Python` `C` `ARM Assembly` `TypeScript` `SQL`
+**[Supply chain experiments](https://github.com/ErturkCan/supply-chain-analysis)**<br>
+Four reproducible notebooks on lead times, ordering, backlog and M/M/c queues. Seeded synthetic data, with separate CSV download and merge tools.
 
-**Vision & data** &nbsp; `YOLO` `OpenCV` `PyTorch` `pandas` `NumPy`
+## Earlier & now
 
-**Tools** &nbsp; `Linux` `Git` `Make` `QEMU` `SQLite` `Supabase`
+Built a 3D printer at 13, then produced and sold **50,000+ mask holders** during COVID. At 16, founded Parmestore, a China–Europe e-commerce business that **funded my education**. It closed in November 2025.
 
-## Building
+Currently building **[Stip](https://getstip.com)**, an NFC receipt prototype for cafés and restaurants, and serving as **Director of Events at KickOff**, Eindhoven’s student entrepreneurship community.
 
-### [stip](https://getstip.com) · digital receipts
+At 15, launched a 10,000+ piece NFT collection. Also completed graduate-level data science coursework with Prof. M. Emre Celebi at UCA, and compete in orienteering.
 
-NFC receipt prototype for cafés and restaurants: tap your phone to open the receipt.
-
-**KickOff** · Director of Events, Eindhoven’s student entrepreneurship community.
-
-### Elsewhere
-
-At 15, launched a **10,000+ piece NFT collection**.
-
-Also · graduate-level data science coursework with **Prof. M. Emre Celebi, UCA** · competitive **orienteering**.
+**Tools:** Python, C, ARM Assembly, TypeScript, SQL · Linux, Git, Make, QEMU · YOLO, OpenCV, PyTorch, pandas, NumPy, SQLite, Supabase.
 
 ---
 

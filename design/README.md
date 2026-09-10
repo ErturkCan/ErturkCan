@@ -1,9 +1,7 @@
 # Profile design
 
-Shared visual language with [Stip](https://getstip.com) and [erturks.com](https://erturks.com): olive, warm white, soft corners, thin lines and restrained typography. `tokens.json` records the palette, spacing and component values. GitHub controls the outer layout and text font.
+Olive accent and transparent “Can Ertürk” wordmark, shared with the personal design language. The body uses native GitHub Markdown in one column: readable text, three main sections, ordinary links and a few selected results in bold.
 
-Rebuild all text cards with `python scripts/build_assets.py`. Cards prioritise the contribution, scope and relevant result. No project photographs or diagrams appear in the profile cards.
+Avoid panels, coloured title bands, repeated technology tags and a separate box for every fact. Keep project descriptions concise without removing scope, qualifications or meaningful outcomes. GitHub controls the text font and theme; light/dark wordmark variants are local SVG files.
 
-The 28 geometry cases, five systems labs, eight-view augmentation and four notebooks describe the public repositories. The 30+ FPS Fiat Stellantis result and 50,000+ mask holders produced and sold come from Can's account of his work. No model accuracy is invented. Age and career status reflect September 2026 and are maintained manually.
-
-The profile wordmark has a transparent background, with a green dot before “Can Ertürk”. Each outcome appears once: experience cards hold the internship ages and technical result; earlier-work cards hold production/sales and education funding.
+`design/tokens.json` records the palette. Existing artwork sources remain versioned; the current README uses only the wordmark. The 30+ FPS result and 50,000+ mask holders produced and sold are based on Can's account. Do not invent model accuracy or new performance figures.
