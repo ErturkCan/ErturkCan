@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="228" viewBox="0 0 620 228" role="img" aria-labelledby="title">
+<title id="title">supply chain experiments | Python · pandas · Queueing</title>
+<rect x="1" y="1" width="618" height="226" rx="14" fill="#0e1622" stroke="#29374b" stroke-width="2"/>
+<path d="M28 1h88" stroke="#80baff" stroke-width="3"/>
+<g font-family="ui-monospace, Menlo, Consolas, monospace">
+<text x="28" y="44" fill="#80baff" font-size="14" letter-spacing="1.4">06 / MODELS &amp; SIMULATION</text>
+<text x="28" y="104" fill="#f0f5fb" font-size="25" font-weight="700" letter-spacing="-1">supply chain experiments</text>
+<text x="28" y="140" fill="#a0b2c8" font-size="15">Python · pandas · Queueing</text>
+<text x="28" y="197" fill="#cad7e7" font-size="14">EXPLORE REPOSITORY <tspan fill="#80baff">↗</tspan></text>
+</g>
+<g fill="none" stroke="#80baff" stroke-width="1.7" opacity=".6"><path d="M460 165V67m0 98h105 M469 140l18-8 19 13 17-53 17 20 19-38"/><circle cx="523" cy="92" r="5"/><circle cx="559" cy="74" r="5"/></g>
+</svg>
