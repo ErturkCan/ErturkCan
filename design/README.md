@@ -4,4 +4,6 @@ Shared visual language with [Stip](https://getstip.com) and [erturks.com](https:
 
 Rebuild all text cards with `python scripts/build_assets.py`. Cards prioritise the contribution, scope and relevant result. No project photographs or diagrams appear in the profile cards.
 
-The 28 geometry cases, five systems labs, eight-view augmentation and four notebooks describe the public repositories. The 30+ FPS TOFAŞ result and 50,000+ mask holders produced and sold come from Can's account of his work. No model accuracy is invented. Age and career status reflect September 2026 and are maintained manually.
+The 28 geometry cases, five systems labs, eight-view augmentation and four notebooks describe the public repositories. The 30+ FPS Fiat Stellantis result and 50,000+ mask holders produced and sold come from Can's account of his work. No model accuracy is invented. Age and career status reflect September 2026 and are maintained manually.
+
+The profile wordmark has a transparent background, with a green dot before “Can Ertürk”. Each outcome appears once: experience cards hold the internship ages and technical result; earlier-work cards hold production/sales and education funding.
