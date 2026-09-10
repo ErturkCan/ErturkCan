@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="180" viewBox="0 0 960 180" role="img" aria-label="can erturk">
-<rect width="960" height="180" fill="#ffffff"/>
-<circle cx="43" cy="92" r="8" fill="#ff6b35"/>
-<text x="72" y="114" fill="#1f2328" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="76" font-weight="600" letter-spacing="-4">can erturk</text>
-<path d="M715 91h204" stroke="#d0d7de" stroke-width="1"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="132" viewBox="0 0 960 132" role="img" aria-label="can erturk">
+<rect width="960" height="132" fill="#ffffff"/>
+<circle cx="43" cy="73" r="8" fill="#ff6b35"/>
+<text x="72" y="95" fill="#1f2328" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="68" font-weight="600" letter-spacing="-4">can erturk</text>
+<path d="M715 73h204" stroke="#d0d7de" stroke-width="1"/>
 </svg>
