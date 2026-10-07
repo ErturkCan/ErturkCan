@@ -25,7 +25,7 @@ Founded **Parmestore at 16**. Built an international e-commerce business with **
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/doodle-parmestore-dark.svg" /><img src="assets/doodle-parmestore-light.svg" width="760" alt="Sketch of the Parmestore flow: source the product, price it, ship it" /></picture>
 
 - Built a 3D printer at **13**, then produced and sold **50,000+ mask holders** during COVID.
-- Graduated **first in my high school class** with **99/100**, and was selected for **BİLSEM**, Turkey’s Science and Art Centres.
+- Graduated **first in my high school class** with **99/100**.
 - Learned the research and paper-development process from **Prof. M. Emre Celebi at UCA**, while building a melanoma analysis system in **Java with k-means clustering**.
 - Launched a **10,000+ piece NFT collection at 15**.
 - **3rd place in Mathematics & Computer Science at MOSTRATEC** with my individual polygon intersection project. The fair brought together 200 finalist projects from 23 countries.
@@ -38,7 +38,7 @@ Founded **Parmestore at 16**. Built an international e-commerce business with **
 
 *Students who want to build rarely get to meet people who already have.*
 
-**Board Member & Director of Events** at [KickOff](https://www.kickoffventures.nl), Eindhoven’s student entrepreneurship community. I run the events programme; the community has hosted **10 business talks for 2,500+ students**, most recently [David Beckett](https://www.kickoffventures.nl/events/david-beckett) on 5 October 2026. I also work on the website and event materials.
+**Board Member & Director of Events** at [KickOff](https://www.kickoffventures.nl), Eindhoven’s student entrepreneurship community. I run the events programme; the community has hosted **10 business talks for 2,500+ students**, with speakers whose companies are worth **€4.59B** combined. Next up: former ASML CEO **Peter Wennink**. I also work on the website and event materials.
 
 Now helping build KickOff’s own pre-accelerator.
 
