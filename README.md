@@ -61,7 +61,7 @@ Built the full stack solo with Next.js, Supabase and Vercel. Currently a prototy
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/doodle-plane-dark.svg" /><img src="assets/doodle-plane-light.svg" width="760" alt="Sketch of a paper plane on a looping trail" /></picture>
 
-**Have a problem worth solving?** [erturks.com](https://erturks.com) · [LinkedIn](https://www.linkedin.com/in/canetrk/) · [Email](mailto:canetrkk@gmail.com)
+**Have a problem worth solving?** [Book a 30-min call](https://cal.com/canerturk/30min) · [erturks.com](https://erturks.com) · [LinkedIn](https://www.linkedin.com/in/canetrk/) · [Email](mailto:canetrkk@gmail.com)
 
 ---
 
