@@ -1,6 +1,6 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/doodle-hero-dark.svg" /><img src="assets/doodle-hero-light.svg" width="560" alt="Can Erturk. Software for problems that live outside the screen." /></picture>
 
-19 · Computer Science & Engineering at TU/e.
+19 · Computer Science & Engineering at TU/e · Software engineering at ASML, next Data & AI at Workwize.
 
 ## Workwize
 
@@ -22,13 +22,15 @@ Software Engineering Intern at 17. Built assembly-line fault detection with Pyth
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/doodle-vision-dark.svg" /><img src="assets/doodle-vision-light.svg" width="760" alt="Sketch: parts on an assembly line pass a camera that marks each one OK or faulty" /></picture>
 
-## Before
+## Parmestore
 
 *How do you sell abroad, at a price that wins, at 16?*
 
 Founded **Parmestore at 16**. Built an international e-commerce business with **$100,000+ in revenue** and **2,500+ products sold across three continents**, with my own Python tools for competitor-based repricing and shipping costs. It **paid for my education**. Ran it from March 2022 to November 2025; the business was later **sold for $10,000**.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/doodle-parmestore-dark.svg" /><img src="assets/doodle-parmestore-light.svg" width="760" alt="Sketch of the Parmestore flow: source the product, price it, ship it" /></picture>
+
+## Where it started
 
 - Built a 3D printer at **13**, then produced and sold **50,000+ mask holders** during COVID.
 - Graduated **first in my high school class** with **99/100**.
