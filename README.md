@@ -46,7 +46,7 @@ Founded **Parmestore at 16**. Built an international e-commerce business with **
 
 **Board Member & Director of Events** at [KickOff](https://www.kickoffventures.nl), Eindhoven’s student entrepreneurship community. I run the events programme; the community has hosted **10 business talks for 2,500+ students**, with speakers whose companies are worth **€4.59B** combined. Next up: former ASML CEO **Peter Wennink**. I also work on the website and event materials.
 
-I also help run our pre-accelerator: from the first cohort of 10, one team went on to **Y Combinator** and one to **Antler**.
+I also help run our pre-accelerator: from the first cohort of 10, one team went on to **Y Combinator** and one to **Antler**, with others in YES!Delft and HighTechXL.
 
 ## Stip
 
